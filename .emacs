@@ -277,3 +277,7 @@ write_string(system.getenv(\"SMALLWORLD_GIS\"), \"/sw_core/modules/sw_dev_tools\
 ;;(put 'backward-kill-sentence 'disabled t)
 
 
+
+
+
+
